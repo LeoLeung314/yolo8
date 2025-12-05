@@ -1,0 +1,6 @@
+usage: yolov8_detect_tensorrt.py [-h] [--engine ENGINE]
+                                 [--video_url VIDEO_URL]
+                                 [--stream_server_url STREAM_SERVER_URL]
+                                 [--device DEVICE] [--skip_frame SKIP_FRAME]
+                                 [--push_frq PUSH_FRQ]
+yolov8_detect_tensorrt.py: error: argument --skip_frame: invalid int value: '41db35390ddad33f83944f44b8b75ded'
